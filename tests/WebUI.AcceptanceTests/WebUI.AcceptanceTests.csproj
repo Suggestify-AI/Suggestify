@@ -3,7 +3,7 @@
     <PropertyGroup>
         <TargetFramework>net7.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
-        <Nullable>enable</Nullable>
+        <Nullable>disable</Nullable>
         <RootNamespace>Suggestify.WebUI.AcceptanceTests</RootNamespace>
         <AssemblyName>Suggestify.WebUI.AcceptanceTests</AssemblyName>
 

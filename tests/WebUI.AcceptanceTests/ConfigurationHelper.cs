@@ -14,7 +14,7 @@ public static class ConfigurationHelper
             .Build();
     }
 
-    private static string? _baseUrl;
+    private static string _baseUrl;
 
     public static string GetBaseUrl()
     {
